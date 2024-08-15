@@ -1,4 +1,4 @@
-# Display WooCommerce Categories Plugin
+# DWC WordPress Plugin
 
 This WordPress plugin displays WooCommerce categories on a custom page template and allows users to load products via AJAX. 
 
@@ -16,7 +16,7 @@ The "Display WooCommerce Categories" plugin provides a shortcode to display WooC
 ## Installation
 
 1. **Upload the Plugin Files:**
-   - Upload the plugin files to the `/wp-content/plugins/display-woocommerce-categories` directory or install the plugin through the WordPress plugins screen directly.
+   - Upload the plugin folder to the `/wp-content/plugins/` directory.
 
 2. **Activate the Plugin:**
    - Activate the plugin through the 'Plugins' screen in WordPress.
